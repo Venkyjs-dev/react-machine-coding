@@ -1,12 +1,30 @@
-# React + Vite
+# React features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Pagination
+2. Infine scroll
+3. side bar(collapasible)
+4. Drop downs
+5. Theme
+6. Multi language support
+7. protected routes
+8. Accordian
+9. Shimmer UI
+10. Events(Browser, keyboard, mouse)
+11. Popups and models
+12. file upload
+13. file download.
+14. Search
+15. Drag and Drop
+16. tables
 
-Currently, two official plugins are available:
+## React major flows
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Authentication
+2. Live chat
+3. toast notification
+4. Erro Bournderies
 
-## Expanding the ESLint configuration
+## Key concepts
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Responsive design
+2. Cross browser compatability
