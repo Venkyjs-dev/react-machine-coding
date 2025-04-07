@@ -26,5 +26,18 @@
 
 ## Key concepts
 
-1. Responsive design
-2. Cross browser compatability
+1. API Integration and Best practices
+2. Responsive design
+3. Cross browser compatability
+
+## Others
+
+### Must:
+
+1.  Env variables
+2.  testing
+3.  TypeScript
+
+### Should:
+
+### Could

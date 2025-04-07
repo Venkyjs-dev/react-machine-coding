@@ -1,5 +1,13 @@
+import Header from "./components/Header";
+import AppRoutes from "./routes/AppRoutes";
+
 function App() {
-  return <div className="bg-green-400">Hello</div>;
+  return (
+    <div>
+      <Header />
+      <AppRoutes />
+    </div>
+  );
 }
 
 export default App;
